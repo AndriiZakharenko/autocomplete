@@ -1,26 +1,30 @@
 # Autocomplete
 
-### Description
+## 🎮 About the Project
+The **Autocomplete** component is a React implementation that suggests matching people based on the text the user types. This interactive search feature helps users quickly find relevant results without needing to manually scroll through a list.
 
-- Implemented the Autocomplete component that will suggest people matching an entered text
+## 🚀 Tech Stack
+- **HTML** (BEM methodology for structured markup)  
+- **CSS** (Bulma for responsive and clean styles)  
+- **JavaScript** (Autocomplete functionality)  
+- **TypeScript** (For type safety and type checking)  
+- **React** (Building the interactive component)  
+- **ReactDOM** (Rendering the component to the DOM)  
 
-### Stack
+## 🛠️ Tools & Dependencies
+- **ESLint** – Code quality and linting  
+- **Prettier** – Code formatting  
+- **Cypress** – End-to-end testing  
+- **Mochawesome** – Test reporting  
+- **Babel** – JavaScript compiler  
 
-- HTML (BEM)
-- CSS (Bulma)
-- JS
-- Typescript
-- React
-- ReactDOM
+## 📌 Features
+✅ Interactive **Autocomplete** component that suggests people based on typed text  
+✅ Built with **TypeScript** for type safety  
+✅ Responsive and clean design with **Bulma**  
 
-### Tools
+## 🌐 Demo
+🔗 [Live Demo](https://AndriiZakharenko.github.io/autocomplete/)
 
-- ESlint
-- Prettier
-- Cypress
-- Mochawesome
-- Babel
-
-### Demo links
-
-- [Demo](https://AndriiZakharenko.github.io/autocomplete/)
+## 📜 License
+This project is forked from 💻 [Mate Academy](https://github.com/mate-academy/react_autocomplete)
